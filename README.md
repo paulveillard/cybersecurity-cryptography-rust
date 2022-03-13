@@ -130,6 +130,9 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Zeroize](https://github.com/iqlusioninc/crates/tree/develop/zeroize) Securely zero memory while avoiding compiler optimizations.
 
 
+**[`^        back to top        ^`](#)**
+
+
 ### Others
 - [Double Ratchet](https://github.com/sebastianv89/double-ratchet) Pure Rust implementation of the Double Ratchet algorithm. (communicate securely).
 - [kms-secp256k1](https://github.com/KZen-networks/kms-secp256k1) Multi Party Key Management System (KMS) for Secp256k1 Elliptic curve based digital signatures.
@@ -150,9 +153,12 @@ An ongoing & curated collection of awesome software best practices and technique
 Contributions are most welcome.
 Not so many constraints, only lowercase > uppercase, symbols > letters.
 
+**[`^        back to top        ^`](#)**
 
 ## License
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
 
